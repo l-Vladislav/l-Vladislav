@@ -1,13 +1,14 @@
 # Hi, I'm Vladislav 👋
 
-**Software Engineer (Full-Stack)** with 6+ years of experience in web and backend development. I currently lead a developer team at [MyMuni Inc.](https://www.linkedin.com/in/vladislav-larionov/)
+**Senior Software Engineer (Full-Stack)** with 10+ years of experience, including 6+ years working with US-based clients. I build AI agents and LLM integrations, modernize legacy codebases, and have led a team of 5 developers for 4+ years. Currently at [MyMuni Inc.](https://www.linkedin.com/in/vladislav-larionov/)
 
 ## 🔭 What I do
 
 - **Frontend** — Angular, RxJS, TypeScript, React, Next.js
 - **Backend** — ASP.NET / .NET, Python (FastAPI), ColdFusion, MSSQL
+- **AI** — OpenAI API, AI agents, LLM integrations, AI-assisted refactoring
 - **BI & analytics** — Qlik Sense, Power BI
-- **Team lead** — leading a developer team, technical analysis, working with clients
+- **Team lead** — led a team of 5 developers, technical analysis, working with clients
 
 ## 🧩 Projects
 
@@ -38,6 +39,7 @@ I'm a long-time World of Warcraft fan, and in my free time I run a private WotLK
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/MSSQL-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white)
