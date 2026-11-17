@@ -14,10 +14,11 @@
 
 | Project | Description |
 |---|---|
-| [Effectograph](https://github.com/l-Vladislav/Effectograph) | Simple image effects made easy (TypeScript) |
+| [bash-me-up](https://github.com/l-Vladislav/bash-me-up) · [▶ live](https://l-vladislav.github.io/bash-me-up/) | My portfolio as a 1984 CRT terminal: a real shell with games, tools and amber/green phosphor (React + TypeScript) |
+| [Effectograph](https://github.com/l-Vladislav/Effectograph) · [▶ live](https://effectograph.vercel.app) | Simple image effects made easy (TypeScript) |
 | [MyNook](https://github.com/l-Vladislav/MyNook) | Personal web project (JavaScript) |
 
-Plus some private work: an iPhone-as-webcam app for Windows (Swift), a portfolio showcase site, and other web/iOS experiments.
+Plus some private work: an iPhone-as-webcam app for Windows (Swift), a learning app with FSRS flashcards, and other web/iOS experiments.
 
 ## 🎮 Hobby projects
 
